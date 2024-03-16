@@ -5,10 +5,10 @@
 ### 🔧 Skills
 
 - **Advanced Python**: Proficient in leveraging Python for complex algorithmic implementations and data manipulation.
+- **Machine Learning**: Expertise in developing and fine-tuning machine learning models using frameworks like TensorFlow and PyTorch.
 - **Computer Vision**: Experienced in developing cutting-edge computer vision applications for various domains.
 - **Cloud Technologies**: Skilled in deploying and managing machine learning models on cloud platforms like AWS and GCP.
 - **Web Development**: Capable of building robust web applications to showcase machine learning models and insights.
-- **Machine Learning**: Expertise in developing and fine-tuning machine learning models using frameworks like TensorFlow and PyTorch.
 - **Natural Language Processing**: Proficient in processing and analyzing natural language data for various applications.
 - **DevOps**: Familiar with DevOps practices for seamless integration and deployment of machine learning systems.
 - **Agile Methodologies**: Experienced in working within Agile frameworks to deliver high-quality solutions efficiently.
