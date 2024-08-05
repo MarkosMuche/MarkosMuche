@@ -25,7 +25,6 @@ Hello! I'm Markos, a Machine Learning Engineer with over three years of experien
 - **Google Cloud Certified – Professional Data Engineer** (2024)
 - **Microsoft Certified – Azure Data Scientist Associate** (2021)
 - **Microsoft Certified – Azure Fundamentals** (2021)
-- **Coursera**: Advanced Computer Vision with TensorFlow, Custom Models, Layers, and Loss Functions with TensorFlow
 
 ---
 
