@@ -1,25 +1,38 @@
-### 🔧 Skills
+# Markos Muche 👨‍💻
 
-- **Advanced Python**: Proficient in leveraging Python for complex algorithmic implementations and data manipulation.
-- **Machine Learning**: Expertise in developing and fine-tuning machine learning models using frameworks like TensorFlow and PyTorch.
-- **Computer Vision**: Experienced in developing cutting-edge computer vision applications for various domains.
-- **Cloud Technologies**: Skilled in deploying and managing machine learning models on cloud platforms like AWS and GCP.
-- **Web Development**: Capable of building robust web applications to showcase machine learning models and insights.
-- **Natural Language Processing**: Proficient in processing and analyzing natural language data for various applications.
-- **DevOps**: Familiar with DevOps practices for seamless integration and deployment of machine learning systems.
-- **Agile Methodologies**: Experienced in working within Agile frameworks to deliver high-quality solutions efficiently.
-- **Great Communication**: Strong verbal and written communication skills for effective collaboration and knowledge sharing.
+**Machine Learning Engineer | Data Scientist | Cloud Enthusiast**
 
-### 🏆 Certifications & Awards
+---
 
-- Microsoft Certified Azure Data Scientist Associate
-- Microsoft Certified Azure Fundamentals
-- Advanced Computer Vision with TensorFlow from Coursera
-- Custom Models, Layers, and Loss Functions with TensorFlow
-- Digital Signal Processing
-- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-- Robotics: Aerial Robotics and Robotics: Estimation and Learning
+## 👋 About Me
 
-Feel free to reach out to me via [email](mailto:markosmuche2018@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/markosmuche).
+Hello! I'm Markos, a Machine Learning Engineer with over three years of experience in developing and deploying deep learning models. My expertise spans computer vision, natural language processing, and data science, with proficiency in TensorFlow and PyTorch. I've collaborated with teams to bring models to production on cloud platforms like AWS, GCP, and Azure.
+
+---
+
+## 🚀 Skills
+
+- **Advanced Python**: Complex algorithms and data manipulation
+- **Machine Learning**: TensorFlow, PyTorch, model development, and fine-tuning
+- **Cloud Technologies**: AWS, GCP, Azure deployment and management
+- **DevOps**: Docker, Kubernetes, GitHub Actions
+
+---
+
+## 🏆 Certifications
+
+- **Google Cloud Certified – Professional Machine Learning Engineer** (2024)
+- **Google Cloud Certified – Professional Data Engineer** (2024)
+- **Microsoft Certified – Azure Data Scientist Associate** (2021)
+- **Microsoft Certified – Azure Fundamentals** (2021)
+- **Coursera**: Advanced Computer Vision with TensorFlow, Custom Models, Layers, and Loss Functions with TensorFlow
+
+---
+
+## 📬 Get in Touch
+
+- **Email**: [markosmuche2018@gmail.com](mailto:markosmuche2018@gmail.com)
+- **LinkedIn**: [linkedin.com/in/markosmuche](https://www.linkedin.com/in/markosmuche)
+- **GitHub**: [github.com/markosmuche](https://github.com/markosmuche)
 
 Let's collaborate and innovate together! 🚀
