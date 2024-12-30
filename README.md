@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello! I'm Markos, a Machine Learning Engineer with over three years of experience in developing and deploying deep learning models. My expertise spans computer vision, natural language processing, and data science, with proficiency in TensorFlow and PyTorch. I've collaborated with teams to bring models to production on cloud platforms like AWS, GCP, and Azure.
+Hello! I'm Markos, a Machine Learning Engineer with over three years of experience in developing and deploying deep learning models. My expertise is in computer vision, natural language processing, and data science, with proficiency in TensorFlow and PyTorch. I've collaborated with teams to bring models to production on cloud platforms like AWS, GCP, and Azure.
 
 ---
 
