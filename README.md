@@ -1,16 +1,16 @@
-# Markos Muche 👨‍💻
+# Markos Muche
 
-**Machine Learning Engineer | Data Scientist | Cloud Enthusiast**
+**Machine Learning Engineer | Google Cloud Certified**
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hello! I'm Markos, a Machine Learning Engineer with over three years of experience in developing and deploying deep learning models. My expertise spans computer vision, natural language processing, and data science, with proficiency in TensorFlow and PyTorch. I've collaborated with teams to bring models to production on cloud platforms like AWS, GCP, and Azure.
 
 ---
 
-## 🚀 Skills
+## Skills
 
 - **Advanced Python**: Complex algorithms and data manipulation
 - **Machine Learning**: TensorFlow, PyTorch, model development, and fine-tuning
@@ -19,7 +19,7 @@ Hello! I'm Markos, a Machine Learning Engineer with over three years of experien
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 - **Google Cloud Certified – Professional Machine Learning Engineer** (2024)
 - **Google Cloud Certified – Professional Data Engineer** (2024)
@@ -28,10 +28,8 @@ Hello! I'm Markos, a Machine Learning Engineer with over three years of experien
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 - **Email**: [markosmuche2018@gmail.com](mailto:markosmuche2018@gmail.com)
 - **LinkedIn**: [linkedin.com/in/markosmuche](https://www.linkedin.com/in/markosmuche)
 - **GitHub**: [github.com/markosmuche](https://github.com/markosmuche)
-
-Let's collaborate and innovate together! 🚀
